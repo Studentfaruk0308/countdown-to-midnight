@@ -1,5 +1,6 @@
 #write your code here
 
+
 def countdown(seconds)
     while 
     seconds >= 1
@@ -8,6 +9,8 @@ def countdown(seconds)
     end
     return "HAPPY NEW YEAR!"
 end
+
+
 
 def countdown_with_sleep(integer)
     while 
@@ -19,6 +22,8 @@ def countdown_with_sleep(integer)
         return "HAPPY NEW YEAR!"
 end
 
+# countdown(5)
+# countdown_with_sleep(10)
 
 # x = 1
 # while x < 10
